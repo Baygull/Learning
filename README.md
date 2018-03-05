@@ -1,0 +1,1 @@
+Just a repository for me learning Github and Java. Hope it goes well.
